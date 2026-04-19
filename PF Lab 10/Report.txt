@@ -1,0 +1,8 @@
+======= Report Card =======
+Name    : Saim Khurram
+Score 1 : 65
+Score 2 : 54
+Score 3 : 78
+Average : 65.66
+Status  : Pass
+===========================
